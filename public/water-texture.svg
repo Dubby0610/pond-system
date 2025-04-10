@@ -1,0 +1,10 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 50 Q 25 60, 50 50 T 100 50 T 150 50" stroke="currentColor" fill="none" stroke-width="0.5" />
+  <path d="M0 55 Q 25 65, 50 55 T 100 55 T 150 55" stroke="currentColor" fill="none" stroke-width  />
+  <path d="M0 55 Q 25 65, 50 55 T 100 55 T 150 55" stroke="currentColor" fill="none" stroke-width="0.5" />
+  <path d="M0 60 Q 25 70, 50 60 T 100 60 T 150 60" stroke="currentColor" fill="none" stroke-width="0.5" />
+  <path d="M0 65 Q 25 75, 50 65 T 100 65 T 150 65" stroke="currentColor" fill="none" stroke-width="0.5" />
+  <path d="M0 70 Q 25 80, 50 70 T 100 70 T 150 70" stroke="currentColor" fill="none" stroke-width="0.5" />
+  <path d="M0 75 Q 25 85, 50 75 T 100 75 T 150 75" stroke="currentColor" fill="none" stroke-width="0.5" />
+  <path d="M0 80 Q 25 90, 50 80 T 100 80 T 150 80" stroke="currentColor" fill="none" stroke-width="0.5" />
+</svg>
